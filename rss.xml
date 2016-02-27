@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Image Therapists International]]></title>
         <description><![CDATA[Image Therapists International]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/image-therapists-international/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 21:59:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 27 Feb 2016 22:05:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/image-therapists-international/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4b96aa8-b756-459c-be98-cf5d22f49016.jpg">]]></description>
+            <link>https://thegrid.ai/image-therapists-international/9e8e1c8c-fe2c-4fe6-8fc0-fafa4219cc12/index.html</link>
+            <guid isPermaLink="false">9e8e1c8c-fe2c-4fe6-8fc0-fafa4219cc12</guid>
+            <pubDate>Sat, 27 Feb 2016 22:05:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/639bc24a-14ed-44dc-b725-748a725cc2ad.jpg">]]></description>
-            <link>undefined095ebe8d-88e6-4d9f-b4d1-49b31f5d628b/index.html</link>
+            <link>https://thegrid.ai/image-therapists-international/095ebe8d-88e6-4d9f-b4d1-49b31f5d628b/index.html</link>
             <guid isPermaLink="false">095ebe8d-88e6-4d9f-b4d1-49b31f5d628b</guid>
             <pubDate>Sat, 27 Feb 2016 21:58:35 GMT</pubDate>
         </item>
